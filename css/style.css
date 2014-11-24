@@ -30,8 +30,9 @@ body p{
 }
 
 .header-nav .navbar-brand > img {
-	width: 74%;
+	
 	height: auto;
+	max-width: 30px;
 	margin: -5px 0 0 0;
 }
 
@@ -122,7 +123,7 @@ margin: 0px 0;
 
 #cta-title .text{
 	color:#fff;
-	text-align: left;
+	text-align: center;
 }
 
 #cta-title .text h1 {
@@ -133,13 +134,13 @@ margin: 0px 0;
 
 #cta-title .text h3{
 	margin:0 0 1.5em;
-	font-weight: 200;
+	font-weight: 500;
 	line-height: 1.35em;
-	font-size:1.2em;
+	font-size:2em;
 }
 
 #hero-text h1{
-	text-align: center;
+	text-align: left;
 	margin-top: 3em;
 	text-transform: uppercase;
 	font-weight: 800;
@@ -148,7 +149,7 @@ margin: 0px 0;
  }
 
  #hero-text h3{
- 	text-align: center;
+ 	text-align: left;
 	margin-top: 3em;
 	color: white;
 	font-size: 1.525em;
@@ -156,7 +157,7 @@ margin: 0px 0;
 
 .header-jumbotron .screenshot-device img{
 	width: 70%;
-	margin: 5px 5px 5px;
+	margin: 5px 5px 3em 6em;
 }
 
 .eko-btn{
@@ -300,11 +301,13 @@ margin: 0px 0;
 	padding-top: 0.25em;
 	padding-bottom: 1.75em;
 	color:#fff;
+	font-size: 1.1em;
 }
 
 .padded-text h3{
 	
 	font-weight: bold;
+	font-size: 1.8em;
 }
 
 .padded-text p{
@@ -398,7 +401,12 @@ footer{
 	font-size: 12px;
 	text-align: center;
 	padding-top: 3%;
-	line-height: 0.75em;
+	line-height: 1em;
+}
+
+footer img{
+	width: 48px;
+	height: auto;
 }
 
 .founders img {
@@ -520,8 +528,8 @@ hr.soften {
 	}
 
 	.navbar-brand img {
-		width: 10%;
-		height: 10%;
+		max-width: 30px;
+		height: auto;
 	}
 
 	.header-nav .navbar-brand {
@@ -575,7 +583,7 @@ hr.soften {
 
 	.header-jumbotron .screenshot-device img {
 		width: 55%;
-		margin: 6em 6em 6em 20em;
+		margin: 4em 6em 6em 10em;
 	}
 
 	.screenshot-device3 img {
@@ -591,6 +599,7 @@ hr.soften {
 	#cta-title .text h1 {
 		font-size: 2.575em;
 	}
+
 
 	.panel-content{
 		padding: 12% 0 ;
@@ -684,7 +693,7 @@ hr.soften {
 	#hero-text h1{
 		margin-top: 2em;
 		font-size: 3.785em;
-		text-align: center;
+		text-align: left;
 	}
 
  	#cta-title {

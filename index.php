@@ -20,9 +20,9 @@ $page = 'home';
 	    <div class="jumbotron header-jumbotron">
 	      <div class="container">
 	      	<div class="row">
-	      		<div id="cta-title" class="col-xs-4 col-lg-4 col-lg-offset-1">
+	      		<div id="cta-title" class="col-sm-6 col-lg-5 col-lg-offset-1">
 			        <div class="text">
-						<img src="images/LoopLogoWords.png" class="founders" alt="Loop">
+						<img src="images/LoopLogoWords.png" class="img-responsive" alt="Loop">
 						<br><br>
 						<h3>Yes. No.<br> Get an answer. <br> Close the loop.</h3>
 						<br>
@@ -30,7 +30,9 @@ $page = 'home';
 
 				    
 					<p class="button-row">
-				      <a href="https://itunes.apple.com/us/app/eko/id527585399?mt=8&uo=4", target="itunes_store" button type="button" class="btn btn2-default btn-store2" style="font-size: 18px">Download The App</a>
+				      	<a href="https://itunes.apple.com/us/app/loop-by-eko/id931539244?mt=8", target="itunes_store" button type="button" class="btn btn-default btn-store"><img src="images/badge-store-ios.svg" height="30" width="30"> App Store</a>
+				      	<a href="https://play.google.com/store/apps/details?id=com.ekoapp.loop&hl=en" target="_blank" button type="button" class="btn btn-default btn-store pull-right"><img src="images/badge-store-play.svg" height="30" width="30"> Play Store</a>
+				    </p>
 				    </p>
 		        </div>
 
@@ -60,7 +62,7 @@ $page = 'home';
 						<p>Saying yes or no has never been easier.<br>Add a message if you'd like.</p>
 						<p class="button-row">
 						<p>&nbsp;</p>
-				      <a href="https://itunes.apple.com/us/app/eko/id527585399?mt=8&uo=4", target="itunes_store" button type="button" class="btn btn-default btn-store"> Get The App</a>
+				      <a href="https://itunes.apple.com/us/app/loop-by-eko/id931539244?mt=8", target="itunes_store" button type="button" class="btn btn-default btn-store"> Download For Free</a>
 					</p>
 					</div>
 					
@@ -75,11 +77,11 @@ $page = 'home';
 				<div class="row">
 					<div class="col-sm-1 padded-text"></div>
 					<div class="col-sm-4 padded-text">
-						<h3>Loops stay forever.</h3>
-						<p>All Loops are archived for easy access.<br>Never lose track of committments again.
+						<h3>Loops are forever.</h3>
+						<p>All Loops are archived for easy access.<br>Never lose track of commitments again.
 							<p>&nbsp;</p>
 							<p class="button-row">
-				      		<a href="https://itunes.apple.com/us/app/eko/id527585399?mt=8&uo=4", target="itunes_store" button type="button" class="btn btn-default btn-store3">Get The App</a>
+				      		<a href="https://itunes.apple.com/us/app/loop-by-eko/id931539244?mt=8", target="itunes_store" button type="button" class="btn btn-default btn-store3">Get The App</a>
 							</p>
 					</div>
 

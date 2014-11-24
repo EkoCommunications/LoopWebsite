@@ -18,10 +18,10 @@ $page = 'about';
     <div class="marketing">
         <div class="container">
 	      	<div class="row">
-				<div id="hero-text" class="col-sm-9" align="center">
+				<div id="hero-text" class="col-sm-9">
 					<h1>We build software that helps people do great things</h1>
 					
-					
+				
 					<h3>Eko is a New York &amp; Bangkok based company focused on 
 					 building tools that unlock the full potential of mobile in the workplace. 
 					 Our products are already used by companies representing $3.3 billion in revenue, and has 
@@ -135,11 +135,11 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 					<img class="img-responsive img-circle" src="images/lauada.jpg"/>
 				</div>
 				<div class="col-sm-9">
-					<h3>Ada Lau, Graphic Designer</h3>
+					<h3>Ada Lau, UI/UX Designer</h3>
 						<h4>New York City</h4>
 				</br>
 					<p>
-					Transitioned from a Vancourite to a New Yorker, Ada has brought with her the True North spirit into her design. She enjoys bouncing off ideas with her team and getting her ideas rejected because she knows her comeback will be even better. Yep, she is a tough cookie. If you happen to be a coffee lover, food adventurist, ping pong enthusiast, or a joker, you might become Ada's next best pal.
+					Transitioned from a Vancourite to a New Yorker, Ada has brought with her the True North spirit into her design. She enjoys bouncing off ideas with her team and getting her ideas rejected because she knows her comeback will be even better. Yep, she is a tough cookie. If you happen to be a coffee lover, food adventurist, ping pong enthusiast, or a joker, you might just become Ada's next best pal.
 					</p>
 					<a target="_blank" href="https://ca.linkedin.com/in/adalau85">LinkedIn</a>
 					&#183;
@@ -151,14 +151,14 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 
 			<div class="row founders">
 				<div class="col-sm-3">
-					<img class="img-responsive img-circle" src="images/osrowjes.jpg"/>
+					<img class="img-responsive img-circle" src="images/OsrowJes.jpg"/>
 				</div>
 				<div class="col-sm-9">
 					<h3>Jes Osrow, Human Resources Generalist &amp; Intern Program Director</h3>
 						<h4>New York City</h4>
 				</br>
 					<p>
-					Jes is an energetic, upbeat, people person with practical problem solving ideas.  At Eko, her role as HR helps to keep the company from running like a mob organization.  As Internship Program Director, Jes guides and mentors interns, preparing them for success, helping them maximize learning from their experience and stimulating solutions that enhance the company's goals.  Her work  individual and organizational productivity, builds collaboration, and stimulates positive company culture.  In her spare time, Jes likes to hang out with her toilet-trained cat, Niko, and create large scale abstract mixed-media paintings.
+					Jes is an energetic, upbeat, people person with practical problem solving ideas.  At Eko, her role as HR Generalist helps to keep the company from running like a mob organization.  As Internship Program Director, Jes guides and mentors interns, preparing them for success, helping them maximize learning from their experience and stimulating solutions that enhance the company's goals.  Her work builds collaboration and stimulates positive company culture.  In her spare time, Jes likes to hang out with her toilet-trained cat, Niko, and create large scale abstract mixed-media paintings.
 					</p>
 					<a target="_blank" href="https://www.linkedin.com/in/jesosrow/">LinkedIn</a>
 					&#183;
@@ -189,6 +189,7 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 					<h3>David Shen, Software Engineer</h3>
 						<h4>New York City</h4>
 				</br>
+					<p>
 					David is the software developer in charge of Eko's Android apps.  He joined Eko after graduating with a CS degree from Hopkins.  You can hear his thoughts about game design at cfalc.wordpress.com
 					</p>
 					<a target="_blank" href="http://www.linkedin.com/pub/david-shen/55/86a/866">LinkedIn</a></br>
@@ -221,7 +222,7 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 					<h4>Bangkok</h4>
 				</br>
 					<p>
-					Robot (Touchanon) serves as the Marketing Associate of Eko. Robot has managed a thousand of Facebook campaigns for leading companies e.g. Unilever, Procter and Gamble, Samsung, Loreal’, etc. when he worked in Komli Media Thailand. In his undergrad life, he was a president of AIESEC in Bangkok University, dedicated himself and established hundred of young leaders to have global mindset and social responsibility. Robot was also the first Google Student Ambassador in Bangkok University, by end of his term he was selected to be one of top three Google Student Ambassador in Southeast Asia. Robot always eager to learn new things, especially when it comes to digital marketing, business, IT and self development.
+					Robot (Touchanon) serves as a Marketing Associate for Eko. Robot has managed Facebook campaigns for leading companies such as Unilever, Procter and Gamble, Samsung, and L'oreal when he worked in Komli Media Thailand. In his undergrad life, he was a president of AIESEC in Bangkok University, dedicating himself and establishing hundreds of young leaders to have global mindsets and social responsibilities. Robot was also the first Google Student Ambassador at Bangkok University, and by end of his term he was selected to be one of top three Google Student Ambassadors in Southeast Asia. Robot is always eager to learn new things, especially when it comes to digital marketing, business, IT, and self development.
 					</p>
 					<a target="_blank" href="https://th.linkedin.com/in/touchanon">LinkedIn</a>
 					&#183;
@@ -235,14 +236,14 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 
 			<div class="row founders">
 				<div class="col-sm-3">
-					<img class="img-responsive img-circle" src="images/Decha.jpg"/>
+					<img class="img-responsive img-circle" src="images/decha.jpg"/>
 				</div>
 				<div class="col-sm-9">
 					<h3>Decha Kanjanakultomrong, Accounting Manager</h3>
 						<h4>Bangkok</h4>
 				</br>
 					<p>
-					Decha works as an Accounting Manager for Eko.  He has almost 20 years experinces in accounting and auditing and is a Certified Public Accountant and Tax Auditor in Thailand.
+					Decha works as an Accounting Manager for Eko.  He has almost 20 years of experience in accounting and auditing, and is a Certified Public Accountant and Tax Auditor in Thailand.
 					</p>
 					<a target="_blank" href="https://th.linkedin.com/pub/decha-kanjanakultomrong/a0/606/b96">LinkedIn</a><br/>
 				</div>
@@ -257,7 +258,7 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 						<h4>Bangkok</h4>
 				</br>
 					<p>
-					Kharuntharat work as an Account Manager for Eko.  She current works maintaining and developing new client relationshios, assists in the implenmentation of company marketing plans, maintains contact with all clients to ensure the higest levels of client satisfaction, and receives and resolves customer compalainsts in a timely manner.
+					Kharuntharat works as an Account Manager for Eko.  She current works by maintaining and developing new client relationships, assists in the implementation of company marketing plans, maintains contact with all clients to ensure high levels of client satisfaction, and receives and resolves customer complaints in a timely manner.
 					</p>
 				</div>
 			</div>
@@ -271,7 +272,7 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 						<h4>Bangkok</h4>
 				</br>
 					<p>
-					Piyaporn has work experiences in many business areas like technology, FMCG and professional services. Over 15 years of sales, marketing and business development in both multi-national and leading local companies, she becomes a specialist in business process reengineering and technology adoption. Now she serves as a Senior Sales Manager of Eko, responsible for sales and key account management.​
+					Piyaporn has work experience in many business areas like technology, FMCG and professional services. With over 15 years of sales, marketing and business development in both multi-national and leading local companies, she has become a specialist in business process reengineering and technology adoption. Now she serves as a Senior Sales Manager for Eko, responsible for sales and key account management.​
 					</p>
 				</div>
 			</div>
@@ -347,7 +348,7 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 
 			<div class="row founders">
 				<div class="col-sm-3">
-					<img class="img-responsive img-circle" src="images/matheujose.jpg"/>
+					<img class="img-responsive img-circle" src="images/MatheuJose.jpg"/>
 				</div>
 				<div class="col-sm-9">
 					<h3>José Matheu, Cartoon, Animation &amp; Graphics Intern</h3>
@@ -437,7 +438,7 @@ Bernie has done everything from software engineering to product to sales/bizdev,
 						<h4>New York City</h4>
 				</br>
 					<p>
-					Laura is  passionate for delivering exceptional user experience.  She lives in New York City and her dog Hemy lives with her parents in China. 
+					Laura is passionate about delivering exceptional user experience.  She lives in New York City and her dog Hemy lives with her parents in China. 
 					</p>
 					<a target="_blank" href="http://www.linkedin.com/pub/lu-laura-wang/88/82a/66a/">LinkedIn</a>
 					&#183;

@@ -15,7 +15,7 @@
 		<div class="collapse navbar-collapse site-nav" role="navigation">
 		  <ul class="nav navbar-nav">
 		   	<li><a href="about">About Us</a></li>
-		   	<li><a href="https://www.ekoapp.com">Eko</a></li>
+		   	<li><a href="http://www.ekoapp.com" target="_blank">Eko</a></li>
 			<!-- <li><a href="jobs">Contact</a></li> -->
 		  </ul>
 		
